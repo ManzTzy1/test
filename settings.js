@@ -45,8 +45,8 @@ global.email = 'akari32@gmail.com' //ubah jadi email kamu
 global.region = 'indonesia' //terserah mau ubah/nggak
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot kamu
-global.author = 'RIY' //ubah jadi nama kamu
+global.packname = '𝐴𝑘𝑎𝑟𝑖 𝐵𝑜𝑡⃪᭪' //ubah jadi nama bot kamu
+global.author = '𝐴𝑘𝑎𝑟𝑖 𝐵𝑜𝑡⃪᭪' //ubah jadi nama kamu
 
 //—————「 Set Nama Session 」—————//
 global.sessionName = 'akun' //biarin aja gausah di ubah!
